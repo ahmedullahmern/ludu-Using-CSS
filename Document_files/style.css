@@ -1,0 +1,144 @@
+.Main1{
+    margin: 0 auto;
+    width: 50%;
+    height: 600px;
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+}
+.green{
+    background-color: green;
+    width: 130px;
+    height: 130px;
+}
+
+.yellow{
+    background-color: yellow;
+    width: 130px;
+    height: 130px;
+}
+
+.white{
+    background-color: rgb(247, 252, 252);
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    margin:15px 15px 15px 15px;
+}
+
+.box1{
+    display:flex;
+    justify-content: space-evenly;
+}
+.box2{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.boxgreen{
+    width: 30px;
+    height: 30px;
+    background-color:green;
+    box-shadow: 0px 8px 6px -6px #888888;
+    margin-top:14.2px;
+}
+.boxyellow{
+    width: 30px;
+    height: 30px;
+    background-color:yellow;
+    box-shadow: 5px 5px 50px grey;
+    margin-top:14.2px;
+}
+
+/*      */
+.boxes1{
+    /* display: flex; */
+}
+.daba{
+    border: 1px solid black;
+    width: 20px;
+    height:20px;
+}
+.daba2{
+    border: 1px solid black;
+    width: 20px;
+    height:20px;
+}
+.daba3{
+    border: 1px solid black;
+    width: 20px;
+    height:20px;
+}
+
+.Main1{
+    /* position: relative;
+    left:50px;
+    bottom: 0; */
+    margin: 0 auto;
+    /* width: 50%;
+    height: 600px;
+    background-color: wheat; */
+    display: flex;
+    justify-content: center;
+}
+
+.boxes4{
+    /* display:; */
+}
+.daba4{
+    border: 1px solid black;
+    width: 20px;
+    height:20px;
+    position: relative;
+    top:60px;
+    right:97px;
+}
+.daba5{
+    border: 1px solid black;
+    width: 20px;
+    height:20px;
+    position: relative;
+    top:60px;
+    right:97px;
+}
+.daba6{
+    border: 1px solid black;
+    width: 20px;
+    height:20px;
+    position: relative;
+    top:60px;
+    right:97px;
+}
+
+
+.blue{
+    position: relative;
+    top:60px;
+    right:97px;
+    background-color: blue;
+    width: 130px;
+    height: 130px;
+}
+
+.red{
+    position: relative;
+    top:60px;
+    right:97px;
+    background-color: red;
+    width: 130px;
+    height: 130px;
+}
+.boxblue{
+    width: 30px;
+    height: 30px;
+    background-color:blue;
+    box-shadow: 0px 8px 6px -6px #888888;
+    margin-top:14.2px;
+}
+.boxred{
+    width: 30px;
+    height: 30px;
+    background-color:red;
+    box-shadow: 5px 5px 50px grey;
+    margin-top:14.2px;
+}
